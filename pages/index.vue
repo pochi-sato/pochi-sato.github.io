@@ -10,13 +10,21 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://github.com"
           target="_blank"
-          class="button--green">Documentation</a>
+          class="button--grey">github</a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://twitter.com"
           target="_blank"
-          class="button--grey">GitHub</a>
+          class="button--grey">twitter</a>
+        <a
+          href="https://qiita.com/pochi-sato"
+          target="_blank"
+          class="button--grey">qiita</a>
+        <a
+          href="https://www.facebook.com/popopo.pochi"
+          target="_blank"
+          class="button--grey">facebook</a>
       </div>
     </div>
   </section>
